@@ -13,6 +13,10 @@ This repo is for collecting the tech/toolkit of the speech tech
 
 - Text To Speech(TTS)
   - Coqui-ai/TTS: https://github.com/coqui-ai/TTS     
+ 
+- Speech Cloning
+    - Real-Time-Voice-Cloning: https://github.com/CorentinJ/Real-Time-Voice-Cloning
+    - MockingBird(based from Real-Time-Voice-Cloning) for chinese: https://github.com/babysor/MockingBird 
 
 ## Unified 
 - [SpeechBrain](https://speechbrain.github.io/)
