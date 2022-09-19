@@ -42,3 +42,9 @@ This repo is for collecting the tech/toolkit of the speech tech
 - [NVIDIA/Nemo](https://github.com/NVIDIA/NeMo)
   - A toolkit for conversationl AI From Nvidia
   - Support ASR/VAD/Speaker Recognition/TTS   
+
+## Tutorials 
+
+- [Interspeech2022] Neural Speech Synthesis
+    - [Xu Tan TTS](https://tts-tutorial.github.io/interspeech2022/INTERSPEECH_Tutorial_TTS.pdf)
+    - [Hung-yi Lee Voice Conversion](https://tts-tutorial.github.io/interspeech2022/INTERSPEECH_Tutorial_VC.pdf)
